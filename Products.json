@@ -3,30 +3,77 @@
   "results": [
     {
       "id": "1",
-      "title": "Prospectus des supports en unités de compte (en cours de commercialisation)",
-      "description" : "Prospectus des supports en unités de compte (en cours de commercialisation)",
-      "image_url" : "https://priips.predica.com/credit-agricole/PS_FR0013282514.pdf",
-      "last_update" : 1509364426938,
+      "titre": "ANAE",
+      "description": "ANAE",
+      "image_url": "https://images.unsplash.com/photo-1652703688098-0b2270c4863b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1NDg0OTMyOQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "last_update": 1654850078,
       "blob": {
-        "supports":[
-          "https://priips.predica.com/credit-agricole/PS_FR0013282514.pdf",
-          "https://priips.predica.com/credit-agricole/PS_FR0013342789.pdf",
-          "https://priips.predica.com/credit-agricole/PS_FR0010188383.pdf",
-          "https://priips.predica.com/credit-agricole/PS_FR0013431046.pdf",
-          "https://priips.predica.com/credit-agricole/PS_FR0010458745.pdf" 
+        "supports": [
+		   {
+            "description": "ANAE",
+            "title": "ANAE",
+            "pdf": [
+              {
+                "id": "DIC_ANAE",
+                "title": "DOCUMENT D'INFORMATIONS CLÉS DU CONTRAT",
+                "url": "https://priips.predica.com/credit-agricole/DIC_ANAE.pdf"
+              }
+            ]
+          },
+          {
+            "description": "Support unité de comptes( en cours de commercialisation )",
+            "title": "Support unité de comptes",
+            "pdf": [
+              {
+                "id": "DIS_FR0013282514",
+                "title": "AMUNDI - KBI ACTIONS MONDE",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0013282514.pdf"
+              },
+			  {
+                "id": "DIS_FR0013342789",
+                "title": "PORTFOLIO METAUX PRECIEUX",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0013342789.pdf"
+              },
+			  {
+                "id": "DIS_FR0010188383",
+                "title": "AMUNDI ACTIONS EMERGENTS",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0010188383.pdf"
+              }
+            ]
+          },
+		  {
+            "description": "Support Euro",
+            "title": "Support Euro",
+            "pdf": [
+              {
+                "id": "DIS_CAeurohdg",
+                "title": "Support en Euros CA",
+                "url": "https://priips.predica.com/credit-agricole/DIS_CAeurohdg.pdf"
+              }
+            ]
+          }
         ]
       }
     },
-    
-    {
+	{
       "id": "2",
-      "title": "Rapports périodiques des supports en unités de compte (en cours de commercialisation)",
-      "description" : "Rapports périodiques des supports en unités de compte (en cours de commercialisation)",
-      "image_url" : "https://images.unsplash.com/photo-1527615532814-540d0d97d938?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-      "last_update" : 1509364426938,
+      "titre": "ASSURANCE OBSÈQUES",
+      "description": "ASSURANCE OBSÈQUES",
+      "image_url": "https://images.unsplash.com/photo-1652703688098-0b2270c4863b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1NDg0OTMyOQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "last_update": 1654850078,
       "blob": {
-        "supports":[
-          "https://priips.predica.com/credit-agricole/PS_FR0013282514.pdf"
+        "supports": [
+		   {
+            "description": "ASSURANCE OBSÈQUES",
+            "title": "ASSURANCE OBSÈQUES",
+            "pdf": [
+              {
+                "id": "DIC_ANAE",
+                "title": "DOCUMENT D'INFORMATIONS CLÉS DU CONTRAT",
+                "url": "https://priips.predica.com/credit-agricole/DIC_ASSURANCE_OBSEQUES.pdf"
+              }
+            ]
+          }
         ]
       }
     }
