@@ -1,0 +1,33 @@
+{
+  "results_size": 2,
+  "results": [
+    {
+      "id": "1",
+      "title": "Prospectus des supports en unités de compte (en cours de commercialisation)",
+      "description" : "Prospectus des supports en unités de compte (en cours de commercialisation)",
+      "image_url" : "https://priips.predica.com/credit-agricole/PS_FR0013282514.pdf",
+      "last_update" : 1509364426938,
+      "blob": {
+        "supports":[
+          "https://priips.predica.com/credit-agricole/PS_FR0013282514.pdf",
+          "https://priips.predica.com/credit-agricole/PS_FR0013342789.pdf",
+          "https://priips.predica.com/credit-agricole/PS_FR0010188383.pdf",
+          "https://priips.predica.com/credit-agricole/PS_FR0013431046.pdf",
+          "https://priips.predica.com/credit-agricole/PS_FR0010458745.pdf" 
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Rapports périodiques des supports en unités de compte (en cours de commercialisation)",
+      "description" : "Rapports périodiques des supports en unités de compte (en cours de commercialisation)",
+      "image_url" : "https://images.unsplash.com/photo-1527615532814-540d0d97d938?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "last_update" : 1509364426938,
+      "blob": {
+        "supports":[
+          "https://priips.predica.com/credit-agricole/PS_FR0013282514.pdf"
+        ]
+      }
+    }
+  ]
+}
