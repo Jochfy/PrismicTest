@@ -54,28 +54,6 @@
                }
             ]
          }
-      },
-      {
-         "id":"2",
-         "titre":"ASSURANCE OBSÈQUES",
-         "description":"ASSURANCE OBSÈQUES",
-         "image_url":"https://images.unsplash.com/photo-1652703688098-0b2270c4863b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1NDg0OTMyOQ&ixlib=rb-1.2.1&q=80&w=1080",
-         "last_update":1509364426938,
-         "blob":{
-            "supports":[
-               {
-                  "description":"ASSURANCE OBSÈQUES",
-                  "title":"ASSURANCE OBSÈQUES",
-                  "pdf":[
-                     {
-                        "id":"DIC_ANAE",
-                        "title":"DOCUMENT D'INFORMATIONS CLÉS DU CONTRAT",
-                        "url":"https://priips.predica.com/credit-agricole/DIC_ASSURANCE_OBSEQUES.pdf"
-                     }
-                  ]
-               }
-            ]
-         }
       }
    ]
 }
