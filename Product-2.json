@@ -1,0 +1,85 @@
+{
+  "results_size": 2,
+  "results": [
+    {
+      "id": "1",
+      "title": "ANAE",
+      "description": "ANAE",
+      "image_url": "https://images.unsplash.com/photo-1527615532814-540d0d97d938?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "last_update": 1509364426938,
+      "blob": {
+        "supports": [
+		   {
+            "description": "ANAE",
+            "title": "ANAE",
+            "pdf": [
+              {
+                "id": "DIC_ANAE",
+                "title": "DOCUMENT D'INFORMATIONS CLÉS DU CONTRAT",
+                "url": "https://priips.predica.com/credit-agricole/DIC_ANAE.pdf"
+              }
+            ]
+          },
+          {
+            "description": "Support unité de comptes( en cours de commercialisation )",
+            "title": "Support unité de comptes",
+            "pdf": [
+              {
+                "id": "DIS_FR0013282514",
+                "title": "AMUNDI - KBI ACTIONS MONDE",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0013282514.pdf"
+              },
+			  {
+                "id": "DIS_FR0013342789",
+                "title": "PORTFOLIO METAUX PRECIEUX",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0013342789.pdf"
+              },
+			  {
+                "id": "DIS_FR0010188383",
+                "title": "AMUNDI ACTIONS EMERGENTS",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0010188383.pdf"
+              },
+			  {
+                "id": "DIS_FR0010188383",
+                "title": "AMUNDI ACTIONS EMERGENTS",
+                "url": "https://priips.predica.com/credit-agricole/DIS_FR0010188383.pdf"
+              }
+            ]
+          },
+		  {
+            "description": "Support Euro",
+            "title": "Support Euro",
+            "pdf": [
+              {
+                "id": "DIS_CAeurohdg",
+                "title": "Support en Euros CA",
+                "url": "https://priips.predica.com/credit-agricole/DIS_CAeurohdg.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    },{
+      "id": "2",
+      "title": "ASSURANCE OBSÈQUES",
+      "description": "ASSURANCE OBSÈQUES",
+      "image_url": "https://images.unsplash.com/photo-1527615532814-540d0d97d938?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "last_update": 1509364426938,
+      "blob": {
+        "supports": [
+		   {
+            "description": "ASSURANCE OBSÈQUES",
+            "title": "ASSURANCE OBSÈQUES",
+            "pdf": [
+              {
+                "id": "DIC_ANAE",
+                "title": "DOCUMENT D'INFORMATIONS CLÉS DU CONTRAT",
+                "url": "https://priips.predica.com/credit-agricole/DIC_ASSURANCE_OBSEQUES.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
